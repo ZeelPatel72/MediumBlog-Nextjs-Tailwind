@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Banner from '../components/Banner'
 import Header from '../components/Header'
+import Trending from '../components/Trending'
 
 const Home: NextPage = () => {
 	return (
@@ -13,6 +14,7 @@ const Home: NextPage = () => {
 			</Head>
 			<Header />
 			<Banner />
+			<Trending />
 		</div>
 	)
 }
