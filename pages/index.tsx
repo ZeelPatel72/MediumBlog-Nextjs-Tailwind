@@ -1,9 +1,11 @@
 import type { NextPage } from 'next'
+import { Main } from 'next/document'
 import Head from 'next/head'
 import Image from 'next/image'
 import Banner from '../components/Banner'
-import Discovery from '../components/discovery'
+import Discovery from '../components/Discovery'
 import Header from '../components/Header'
+import Story from '../components/Story'
 import Trending from '../components/Trending'
 
 const Home: NextPage = () => {
@@ -17,6 +19,7 @@ const Home: NextPage = () => {
 			<Banner />
 			<Trending />
 			<Discovery />
+			<Story />
 		</div>
 	)
 }
