@@ -9,10 +9,10 @@ function Story() {
 					<div className="basis-3/4 px-5 content-center">
 						<div className="flex">
 							<img className="w-8 h-8 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-2xl font-semibold mb-1">Zeel Patel</h2>
+							<h2 className="text-xl font-semibold mb-1">Zeel Patel</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">Why people keep watching supernatural over and over again?</h1>
-						<p className="text-xl">
+						<h1 className="text-xl font-bold mb-2">Why people keep watching supernatural over and over again?</h1>
+						<p className="text-lg">
 							To give a breif reasons, supernatural has a good story, is filled with tons of refernces to other shows
 							and movies, it's sibling duo is very relatable and it's sometimes funny as hell(not the real one).
 						</p>
@@ -35,10 +35,10 @@ function Story() {
 					<div className="px-5 basis-3/4 content-center">
 						<div className="flex">
 							<img className="w-8 h-8 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-2xl font-semibold mb-1">Rowena Macleod</h2>
+							<h2 className="text-xl font-semibold mb-1">Rowena Macleod</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">If you can't stand the heat dear, Get out of hell.</h1>
-						<p className="text-xl">
+						<h1 className="text-xl font-bold mb-2">If you can't stand the heat dear, Get out of hell.</h1>
+						<p className="text-lg">
 							Rowena MacLeod was an extremely powerful natural witch, and the mother of Crowley, who was originally
 							named Fergus Roderick MacLeod. She is also the grandmother of Gavin MacLeod.
 						</p>
@@ -61,12 +61,12 @@ function Story() {
 					<div className="px-5 basis-3/4 content-center">
 						<div className="flex">
 							<img className="w-8 h-8 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-2xl font-semibold mb-1">Charlie bradburry</h2>
+							<h2 className="text-xl font-semibold mb-1">Charlie bradburry</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">
+						<h1 className="text-xl font-bold mb-2">
 							Did you know dental floss works great on stitches? My wound smells minty fresh.
 						</h1>
-						<p className="text-xl">
+						<p className="text-lg">
 							Charlene "Charlie" Bradbury, born Celeste Middleton, was a hacker-turned-hunter. She helped Sam and Dean
 							Winchester find out what the Leviathan Dick Roman was searching for.
 						</p>
@@ -89,12 +89,10 @@ function Story() {
 					<div className="px-5 basis-3/4 content-center">
 						<div className="flex">
 							<img className="w-8 h-8 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-2xl font-semibold mb-1">Gabriel: The Trickster</h2>
+							<h2 className="text-xl font-semibold mb-1">Gabriel: The Trickster</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">
-							What You Guys Call The Apocalypse, I Used To Call Sunday Dinner.
-						</h1>
-						<p className="text-xl">
+						<h1 className="text-xl font-bold mb-2">What You Guys Call The Apocalypse, I Used To Call Sunday Dinner.</h1>
+						<p className="text-lg">
 							Gabriel, also known as Loki or The Trickster, was the fourth and youngest of the four archangels created
 							by God. Despite the fact that he is the youngest of the archangels, he is still very powerful.
 						</p>
@@ -117,10 +115,10 @@ function Story() {
 					<div className="px-5 basis-3/4 content-center">
 						<div className="flex">
 							<img className="w-8 h-8 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-2xl font-semibold mb-1">Balthazar: The Angel</h2>
+							<h2 className="text-xl font-semibold mb-1">Balthazar: The Angel</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">Let's sink the titanic.</h1>
-						<p className="text-xl">
+						<h1 className="text-xl font-bold mb-2">Let's sink the titanic.</h1>
+						<p className="text-lg">
 							Balthazar was an angel of Heaven and a personal friend of Castiel. At some point during the Apocalypse, he
 							stole a number of powerful artifacts kept in Heaven and faked his own death.
 						</p>
