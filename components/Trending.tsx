@@ -4,8 +4,8 @@ function Trending() {
 	return (
 		<div>
 			<h2 className="uppercase text-xl py-5 px-10 pb-4">Trending on Medium</h2>
-			<div className="p-2 gap-3 sm:grid md:grid-cols-2 xl:grid-cols-3 3xl:flex flex-wrap border-y">
-				<div className="flex p-3 pl-0">
+			<div className="py-5 px-2 gap-3 sm:grid md:grid-cols-2 xl:grid-cols-3 3xl:flex flex-wrap border-y">
+				<div className="flex p-5 pl-0">
 					<h1 className="text-7xl text-slate-200 font-bold p-2 pt-0">01</h1>
 					<div className="flex-col">
 						<div className="flex">
@@ -20,7 +20,7 @@ function Trending() {
 						</div>
 					</div>
 				</div>
-				<div className="flex p-3 pl-0">
+				<div className="flex p-5 pl-0">
 					<h1 className="text-7xl text-slate-200 font-bold p-2 pt-0">02</h1>
 					<div className="flex-col">
 						<div className="flex">
@@ -35,7 +35,7 @@ function Trending() {
 						</div>
 					</div>
 				</div>
-				<div className="flex p-3 pl-0">
+				<div className="flex p-5 pl-0">
 					<h1 className="text-7xl text-slate-200 font-bold p-2 pt-0">03</h1>
 					<div className="flex-col">
 						<div className="flex">
@@ -50,7 +50,7 @@ function Trending() {
 						</div>
 					</div>
 				</div>
-				<div className="flex p-3 pl-0">
+				<div className="flex p-5 pl-0">
 					<h1 className="text-7xl text-slate-200 font-bold p-2 pt-0">04</h1>
 					<div className="flex-col">
 						<div className="flex">
@@ -65,7 +65,7 @@ function Trending() {
 						</div>
 					</div>
 				</div>
-				<div className="flex p-3 pl-0">
+				<div className="flex p-5 pl-0">
 					<h1 className="text-7xl text-slate-200 font-bold p-2 pt-0">05</h1>
 					<div className="flex-col">
 						<div className="flex">
@@ -80,7 +80,7 @@ function Trending() {
 						</div>
 					</div>
 				</div>
-				<div className="flex p-3 pl-0">
+				<div className="flex p-5 pl-0">
 					<h1 className="text-7xl text-slate-200 font-bold p-2 pt-0">06</h1>
 					<div className="flex-col">
 						<div className="flex">

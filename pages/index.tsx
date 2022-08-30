@@ -7,10 +7,11 @@ import Discovery from '../components/Discovery'
 import Header from '../components/Header'
 import Story from '../components/Story'
 import Trending from '../components/Trending'
+import Footer from '../components/Footer'
 
 const Home: NextPage = () => {
 	return (
-		<div className="max-w-7xl mx-auto">
+		<div className="max-w-8xl p-10 mx-auto">
 			<Head>
 				<title>Medium Blog</title>
 				<link rel="icon" href="/favicon.ico" />
@@ -20,6 +21,7 @@ const Home: NextPage = () => {
 			<Trending />
 			<Discovery />
 			<Story />
+			<Footer />
 		</div>
 	)
 }
