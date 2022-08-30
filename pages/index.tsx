@@ -11,7 +11,7 @@ import Footer from '../components/Footer'
 
 const Home: NextPage = () => {
 	return (
-		<div className="max-w-8xl p-10 mx-auto">
+		<div className="max-w-8xl sm:p-0 md:p-0 lg:p-0 xl:p-10 mx-auto">
 			<Head>
 				<title>Medium Blog</title>
 				<link rel="icon" href="/favicon.ico" />
