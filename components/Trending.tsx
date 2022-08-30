@@ -10,9 +10,9 @@ function Trending() {
 					<div className="flex-col">
 						<div className="flex">
 							<img className="w-6 h-6 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-xl font-semibold mb-1">Zeel Patel</h2>
+							<h2 className="text-xl font-semibold mb-1">Sam Winchester</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">I am building Medium clone.</h1>
+						<h1 className="text-2xl font-bold mb-2">What kind of house doesn't have salt?</h1>
 						<div className="flex">
 							<h4>jun 11</h4>
 							<p className="text-3xl font-bold m-2 -mt-3.5">.</p>
@@ -25,9 +25,9 @@ function Trending() {
 					<div className="flex-col">
 						<div className="flex">
 							<img className="w-6 h-6 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-xl font-semibold mb-1">Abhishek Trivedi</h2>
+							<h2 className="text-xl font-semibold mb-1">Dean Winchester</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">How to negotiate in interview.</h1>
+						<h1 className="text-2xl font-bold mb-2">Well, I'll say it again. Monsters I get. People are crazy.</h1>
 						<div className="flex">
 							<h4>jun 11</h4>
 							<p className="text-3xl font-bold m-2 -mt-3.5">.</p>
@@ -40,9 +40,9 @@ function Trending() {
 					<div className="flex-col">
 						<div className="flex">
 							<img className="w-6 h-6 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-xl font-semibold mb-1">Bhuru Gundandasoo</h2>
+							<h2 className="text-xl font-semibold mb-1">Fergus Macleod</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">I've had enough today.</h1>
+						<h1 className="text-2xl font-bold mb-2">I was born to direct.</h1>
 						<div className="flex">
 							<h4>jun 11</h4>
 							<p className="text-3xl font-bold m-2 -mt-3.5">.</p>
@@ -55,9 +55,9 @@ function Trending() {
 					<div className="flex-col">
 						<div className="flex">
 							<img className="w-6 h-6 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-xl font-semibold mb-1">Jay Ganeshu</h2>
+							<h2 className="text-xl font-semibold mb-1">Robert Singer</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">Breakthought in solar cell technology.</h1>
+						<h1 className="text-2xl font-bold mb-2">If you're going to be STUPID, At least be SMART about it</h1>
 						<div className="flex">
 							<h4>jun 11</h4>
 							<p className="text-3xl font-bold m-2 -mt-3.5">.</p>
@@ -70,9 +70,9 @@ function Trending() {
 					<div className="flex-col">
 						<div className="flex">
 							<img className="w-6 h-6 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-xl font-semibold mb-1">Chinkli Dods</h2>
+							<h2 className="text-xl font-semibold mb-1">Castiel: The Angel</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">Setting the record straight</h1>
+						<h1 className="text-2xl font-bold mb-2">I don't understand that reference.</h1>
 						<div className="flex">
 							<h4>jun 11</h4>
 							<p className="text-3xl font-bold m-2 -mt-3.5">.</p>
@@ -85,9 +85,9 @@ function Trending() {
 					<div className="flex-col">
 						<div className="flex">
 							<img className="w-6 h-6 rounded-full mr-3" src="Assets/profile-pic.jpg" alt="" />
-							<h2 className="text-xl font-semibold mb-1">Siri Alexa</h2>
+							<h2 className="text-xl font-semibold mb-1">Meg Masters</h2>
 						</div>
-						<h1 className="text-2xl font-bold mb-2">Will i be able to rent my place soon?</h1>
+						<h1 className="text-2xl font-bold mb-2">Do I look like Google to you?</h1>
 						<div className="flex">
 							<h4>jun 11</h4>
 							<p className="text-3xl font-bold m-2 -mt-3.5">.</p>
